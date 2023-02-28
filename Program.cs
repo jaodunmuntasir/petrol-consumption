@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Versioning;
 
-namespace program4
+namespace petrol_consumption_calculation
 {
     internal class Program
     {
